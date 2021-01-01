@@ -16,7 +16,6 @@
    `USER` : Your Instagram username. <br>
    `PASSWORD` : Your Instagram password <br>
 3) Click deploy
-<br>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NandiyaLive/IGStoryDL-Automated)
 

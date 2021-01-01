@@ -7,13 +7,16 @@
 
 <h3>How to deploy?</h3>
 
+1) Fork this repo.
+2) Edit bot.py <br>
+   `token` : Bot token from the @BotFather. <br>
+   `chat_id` : Your telegram chat ID. <br>
+   `user_ids` : User ID of the Instagram profiles you want to download stories. <br>
+   `src_dir` : Download directory. <br>
+   `USER` : Your Instagram username. <br>
+   `PASSWORD` : Your Instagram password <br>
+3) Click deploy
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NandiyaLive/IGStoryDL-Automated)
 
-1) Fork this repo.
-2) Edit bot.py
-   `token` : Bot token from the 
-   `chat_id`
-   `user_ids`
-   `src_dir`
 <br>
 © Neranjana Prasad 2020.

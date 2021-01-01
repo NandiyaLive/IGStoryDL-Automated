@@ -20,7 +20,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NandiyaLive/IGStoryDL-Automated)
 
 4) Get your Heroku app URL.
-5) Create an account on [![cron-job.org]](https://cron-job.org)
+5) Create an account on [cron-job.org](https://cron-job.org)
 5) Create a new cronjob<br>
    `Address` : {your-heroku-app-name}.herokuapp.com<br>
    `Schedule` : Add the time you want to send the request to download stories

@@ -3,7 +3,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 <h3>What is this repo about?</h3>
-<p>This is a simple script written in python to automate downloading stroies from Instagram. This will send you the downloaded files via a Telegram Bot<p>
+<p>This is a simple script written in python to automate downloading stories from Instagram. This will send you the downloaded files via a Telegram Bot<p>
 
 <h3>How to deploy?</h3>
 

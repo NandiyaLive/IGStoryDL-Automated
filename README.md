@@ -7,7 +7,7 @@
 
 <h3>How to deploy?</h3>
 
-1) Fork this repo and change repository visibility to private.
+1) Fork this repository and change visibility to private.
 2) Edit bot.py <br>
    `token` : Bot token from the @BotFather. <br>
    `chat_id` : Your telegram chat ID. <br>

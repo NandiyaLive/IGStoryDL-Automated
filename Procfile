@@ -1,1 +1,1 @@
-web: gunicorn app: app & python auto.py & wait - n
+web: gunicorn app: app & python app.py & wait - n
